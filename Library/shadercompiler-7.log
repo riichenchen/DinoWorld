@@ -1,0 +1,29 @@
+Base path: D:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-7-7444
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=1 type=0 insize=10220 outsize=2620 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=10220 outsize=5507 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=10220 outsize=6 kw=WATER_VERTEX_DISPLACEMENT_OFF WATER_EDGEBLEND_ON WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=10220 outsize=6 kw=WATER_VERTEX_DISPLACEMENT_OFF WATER_EDGEBLEND_ON WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=10220 outsize=1728 kw=WATER_VERTEX_DISPLACEMENT_OFF WATER_EDGEBLEND_ON WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=10224 outsize=5172 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=10224 outsize=2330 kw=WATER_VERTEX_DISPLACEMENT_OFF WATER_EDGEBLEND_ON WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=10224 outsize=484 kw=WATER_VERTEX_DISPLACEMENT_OFF WATER_REFLECTIVE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=10224 outsize=1166 kw=WATER_VERTEX_DISPLACEMENT_ON WATER_EDGEBLEND_ON WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=10224 outsize=6 kw=WATER_VERTEX_DISPLACEMENT_OFF WATER_EDGEBLEND_ON WATER_SIMPLE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=10224 outsize=1184 kw=WATER_VERTEX_DISPLACEMENT_OFF WATER_REFLECTIVE WATER_EDGEBLEND_OFF ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=9966 outsize=566 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=952 outsize=1812 kw= ok=1
